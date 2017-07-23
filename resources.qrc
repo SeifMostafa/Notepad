@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>resources/icons8-Undo-48.png</file>
+        <file>resources/icons8-Undo-26.png</file>
+        <file>resources/icons8-Save-48.png</file>
+        <file>resources/icons8-Save as-48.png</file>
+        <file>resources/icons8-Redo-48.png</file>
+        <file>resources/icons8-Paste-48.png</file>
+        <file>resources/icons8-Open Document-50.png</file>
+        <file>resources/icons8-Info-50.png</file>
+        <file>resources/icons8-Cut-48.png</file>
+        <file>resources/icons8-Copy-48.png</file>
+        <file>resources/icons8-Add File-48.png</file>
+        <file>resources/icons8-Fill Color-26.png</file>
+        <file>resources/icons8-Decrease Font-48.png</file>
+        <file>resources/icons8-Close Window-48.png</file>
+        <file>resources/icons8-Color Dropper-48.png</file>
+        <file>resources/icons8-Fill Color-48.png</file>
+    </qresource>
+</RCC>
